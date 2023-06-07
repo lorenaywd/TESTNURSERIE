@@ -1,0 +1,20 @@
+body { background-color: rgb(216, 215, 215);}
+header { background-color: rgb(58, 179, 179);}
+h1 { color: rgb(59, 59, 59); 
+    font-display:left;}
+
+section {margin:10px;
+    width: 33%;
+    height: 60%;
+     background-color: rgb(185, 10, 10);
+     text-align: justify center; 
+     image-rendering: optimizeQuality;}
+     SECTION LI{ padding: 30px;}
+ div {display: flex;}
+
+article{ order: (5);}
+h2{color: rgb(59, 59, 59);}
+h4{ color: rgb(109, 109, 109);}
+h5{color:rgb(109, 109, 109);}
+h6{color: rgb(109, 109, 109);}
+p{color: rgb(109, 109, 109);}

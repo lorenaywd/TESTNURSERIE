@@ -1,0 +1,8 @@
+ h1 {text-align: center;}
+ h4 { text-align: center;}
+ p { font-style: oblique;}
+ form { background-color: rgb(226, 228, 226); 
+    font-weight: 600;}
+button[type=submit]:hover {background-color: rgb(116, 131, 114);} 
+button [ type= submit]:active { background-color: rgb(31, 194, 16);}
+textarea { padding:1px; box-shadow ; border-radius: 1px;}
